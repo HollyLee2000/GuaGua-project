@@ -19,7 +19,7 @@
 
 - 下载项目
 
-        git clone https://github.com/EwingYangs/weixin-order
+        git clone https://github.com/HollyLee2000/GuaGua-project
         
 - composer 安装yii库
 
@@ -48,4 +48,4 @@
 # 其他
 
 - 提示，因为个人原因缺乏支付功能，支付代码已经完成
-- 项目交流请QQ联系501978500
+- 原作者：https://github.com/EwingYangs/weixin-order
