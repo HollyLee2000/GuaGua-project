@@ -23,7 +23,7 @@
         
 - composer 安装yii库
 
-        cd weixin-order
+        cd GuaGua-project
         composer install
         
 - nginx 配置，看根目录的nginx.conf文件
